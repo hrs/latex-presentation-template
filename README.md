@@ -36,3 +36,7 @@ I've creatively named the default project `presentation`. If you want to change 
 ### "This is stupid, why don't you just..." ###
 
 Nah, I like my setup. Shush.
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/hrs/latex-presentation-template/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
